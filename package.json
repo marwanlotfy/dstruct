@@ -2,6 +2,10 @@
   "name": "dstruct",
   "version": "1.0.0",
   "description": "package for creating stacks with diffrent strategies ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marwanlotfy/dstruct.git"
+  },
   "main": "index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
