@@ -1,6 +1,6 @@
 {
   "name": "dstruct",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "package for creating stacks with diffrent strategies ",
   "repository": {
     "type": "git",
