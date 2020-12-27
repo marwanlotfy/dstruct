@@ -1,0 +1,16 @@
+{
+  "name": "dstruct",
+  "version": "1.0.0",
+  "description": "package for creating stacks with diffrent strategies ",
+  "main": "index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "compile" : "rm -rf ./dist && tsc ",
+    "dev" : "tsc"
+  },
+  "author": "marwan lotfy <marwandevelop@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
